@@ -11,15 +11,15 @@
  * Created on 19 septembre 2019, 15:21
  */
 
-#include <cstdlib>
+#include <iostream>
 
-using namespace std;
 
 /*
  * 
  */
 int main(int argc, char** argv) {
 
+    std::cout << "HeIIo Git" << std::endl;
     return 0;
 }
 
